@@ -1,0 +1,21 @@
+
+  body {
+    background-color:wheat;
+  }
+  hr{
+
+    border-color: grey;
+    border-width: 5px;
+    border-style: dotted none none;
+
+    width: 4%;
+  }
+h1{
+  color: #24A19C
+}
+h3{
+    color: #24A19C
+}
+.dp {
+  border-radius: 100%;
+}
